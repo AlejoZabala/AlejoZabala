@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AlejoZabala
-- 👀 I’m interested in Modelling Energy Systems, Deployment of Urban Hydrogen Technology, and Urban Mobility solutions free of Carbon Foot Print.
+- 👋 Hi, I am @AlejoZabala
+- 👀 I am interested in Modelling Energy Systems, Deployment of Urban Hydrogen Technology, and Urban Mobility solutions free of Carbon Foot Print.
 - 🌱 I am in constant learning to program with Python, and use it for Modelling Energy Systems
 - 💞️ I am looking to collaborate on PV Systems and Wind Power Plants potentials.
 - 📫 You can reach me by email at azabalaf@gmail.com
